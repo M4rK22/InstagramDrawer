@@ -46,3 +46,10 @@ You load an image, the program dynamically finds the best edge-detection setting
 ```bash
 pip install -r requirements.txt
 python main.py
+
+---
+
+## Demo
+
+Download and watch the demo video: [Demo Video](Demo/demo.mp4)
+
