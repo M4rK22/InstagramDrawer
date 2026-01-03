@@ -4,7 +4,7 @@ Auto Drawer is a Python project that automatically redraws an image on screen us
 
 You load an image, the program dynamically finds the best edge-detection settings, scales the image to your drawing area, and then draws it pixel by pixel.
 
-⚠️ **Learning-focused project — not production-ready**
+⚠️ **Learning-focused project not production-ready**
 
 ---
 
